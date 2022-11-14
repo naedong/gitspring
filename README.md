@@ -1,0 +1,2 @@
+# gitspring
+jpa, mapstruct, maven
